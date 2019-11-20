@@ -33,7 +33,10 @@
       // 
       // label1
       // 
+      this.label1.BackColor = System.Drawing.Color.White;
       this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
+      this.label1.Font = new System.Drawing.Font("Century Gothic", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+      this.label1.ForeColor = System.Drawing.Color.Blue;
       this.label1.Location = new System.Drawing.Point(0, 0);
       this.label1.Name = "label1";
       this.label1.Size = new System.Drawing.Size(473, 199);
